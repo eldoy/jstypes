@@ -9,6 +9,8 @@ var user = {}
 // Should show error
 user.hello = 'hello'
 
+user.age
+
 // Autocomplete works
 // user.
 
