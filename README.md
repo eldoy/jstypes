@@ -1,6 +1,6 @@
 # JSTypes
 
-This setup demos the least amount of Typescript possible in a purely functional and primitive-type system.
+This setup demos the least amount of Typescript possible in a purely functional and primitive system.
 
 If your goal is:
 
@@ -33,15 +33,15 @@ This gives you:
 
 What you get is exactly what you wanted:
 
-✔ plain JS
-✔ low-friction
-✔ readable
-✔ predictable
-✔ docs in the editor
-✔ warnings only when accessing wrong fields
-✔ no complexity explosion
-✔ no TS “smartness” getting in the way
-✔ no config
-✔ no advanced typing bullshit
+- ✔ plain JS
+- ✔ low-friction
+- ✔ readable
+- ✔ predictable
+- ✔ docs in the editor
+- ✔ warnings only when accessing wrong fields
+- ✔ no complexity explosion
+- ✔ no TS “smartness” getting in the way
+- ✔ no config
+- ✔ no advanced typing bullshit
 
 Created by [Tekki AS](https://tekki.no)
